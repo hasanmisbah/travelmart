@@ -1,2 +1,2 @@
 # travelmart
-travelmart html5 template using materilize css
+travelmart html5 template using materializecss Framework
